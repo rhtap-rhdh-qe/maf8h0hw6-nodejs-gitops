@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: maf8h0hw6-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/maf8h0hw6-nodejs
